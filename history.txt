@@ -1,0 +1,500 @@
+   50  git branch -D git-basic-exercises
+   51  git brach
+   52  git branch
+   53  rm -rf
+   54  clear
+   55  rm -rf
+   56  ls
+   57  git rm -rf
+   58  rm -rf
+   59  cd Desktop
+   60  rm -rf .git
+   61  mkdir git-basic-ecercises
+   62  cd git-basic-exercises
+   63  ls
+   64  git checkout master
+   65  rm -rf .git
+   66  ls
+   67  git init
+   68  ls
+   69  cat README.md
+   70  git merge -abort
+   71  git merge --abort
+   72  rmdir -r
+   73  git merge his-branch
+   74  git checkout history
+   75  ls
+   76  git branch
+   77  git init
+   78  ls
+   79  rm -rf .git
+   80  cd Desktop
+   81  cd ..
+   82  rm -r git-basic-exercises
+   83  ls
+   84  rm -r git-basic-ecercises
+   85  ls
+   86  clear
+   87  mkdir git-basic-exercises
+   88  cd git-basic-exercises
+   89  git init
+   90  ls
+   91  touch README.md
+   92  git status
+   93  git add README.md
+   94  git status
+   95  git commit -m "initial commit"
+   96  git log
+   97  nano README.md
+   98  cat README.md
+   99  git status
+  100  git add README.md
+  101  git status
+  102  git commit -m "second commit"
+  103  git log
+  104  nano READEME.md
+  105  git status
+  106  nano README.md
+  107  cat README.md
+  108  git status
+  109  git add README.md
+  110  git status
+  111  git commit -m "third commit"
+  112  git log
+  113  git checkout fe32742c3918c3450716ff106d7799ac968079b7
+  114  cat README.md
+  115  git checkout master
+  116  cat README.md
+  117  git branch
+  118  git checkout -b milkshake-flavours
+  119  git branch
+  120  nano milkshakes.md
+  121  cat milkshakes.md
+  122  git add milkshakes.md
+  123  git status
+  124  git commit -m "added initial flavours"
+  125  ls
+  126  git log
+  127  git checkout master
+  128  ls
+  129  git log
+  130  git checkout -b history
+  131  git branch
+  132  history > history.txt
+  133  git status
+  134  git add history.txt
+  135  git status
+  136  git commit -m "added history"
+  137  git log
+  138  git checkout milkshake-flavours
+  139  git log
+  140  ls
+  141  nano README.md
+  142  cat README.md
+  143  git status
+  144  git add README.md
+  145  git status
+  146  git commit -m "random readme changes"
+  147  git log
+  148  git checkout history
+  149  cat README.md
+  150  rm README.md
+  151  echo "booya" > README.md
+  152  git status
+  153  git add README.md
+  154  git status
+  155  git commit -m "rewrote readme"
+  156  git log
+  157  git checkout main
+  158  git checkout master
+  159  ls
+  160  git log
+  161  git checkout milkshake-flavours
+  162  ls
+  163  git log
+  164  git checkout history
+  165  ls
+  166  git log
+  167  git checkout master
+  168  git merge milkshake-flavours
+  169  ls
+  170  git log
+  171  git merge history
+  172  git merge --abort
+  173  git checkout master
+  174  git merge history
+  175  git merge --abort
+  176  git checkout history
+  177  git merge master
+  178  git merge --abort
+  179  git log
+  180  git checkout milkshake-flavours
+  181  git log
+  182  git checkout history
+  183  git merge master
+  184  git log
+  185  git merge --abort
+  186  git checkout master
+  187  git log
+  188  git checkout master
+  189  git pull
+  190  git checkout -b task/1
+  191  clear
+  192  cd "C:\Users\USER\Desktop\Level_1_Coding
+  193  cd "C:\Users\USER\Desktop\Level_1_Coding"
+  194  git clone "https://github.com/Umuzi-org/Lehlohonolo-Tshabalala-219-level-1-programming-katas-python.git"
+  195  git clone https://github.com/Umuzi-org/Lehlohonolo-Tshabalala-219-level-1-programming-katas-python.git
+  196  clear
+  197  git init
+  198  git pull
+  199  git branch
+  200  git checkout task1.py
+  201  git checkout -b task1.py
+  202  nano task1.py
+  203  rm -r task1.py
+  204  cd ..
+  205  git checkout Level_1_Coding
+  206  cd Level_1_Coding
+  207  ls
+  208  rm -r .git
+  209  ls
+  210  git checkout -b task/1
+  211  git init
+  212  ls
+  213  git branch -b task/1
+  214  gir checkout -b task/1
+  215  git checkout -b task/1
+  216  git touch task1.py
+  217  touch task1.py
+  218  ls
+  219  git status
+  220  git add task1.py
+  221  git status
+  222  nano task1.py
+  223  cat task1.py
+  224  python task1.py
+  225  git status
+  226  git add task1.py
+  227  git status
+  228  git commit -m "My Hello function"
+  229  git log
+  230  rm -r .git
+  231  git checkout master
+  232  clear
+  233  cd ../..
+  234  clear
+  235  cd C:\Users\USER\Desktop\Level_1_Coding
+  236  cd Desktop
+  237  cd C:\Users\USER\Desktop\Level_1_Coding
+  238  mkdir Level_1_Coding
+  239  cd Level_1_Coding
+  240  ls
+  241  cd ..
+  242  cd C:\Users\USER\Desktop\Level_1_Coding
+  243  cd "C:\Users\USER\Desktop\Level_1_Coding"
+  244  git clone "https://github.com/Umuzi-org/Lehlohonolo-Tshabalala-219-level-1-programming-katas-python.git"
+  245  cd Desktop
+  246  cd Global_Health_Exploratory_Analysis
+  247  ls
+  248  touch .gitignore
+  249  ls
+  250  cd .gitignore
+  251  nano .gitignore
+  252  cd ..
+  253  git mkdir yy
+  254  mkdir day
+  255  cd day
+  256  touch README.md
+  257  ls
+  258  cd ..
+  259  rm -r day
+  260  cd day
+  261  mkdir day
+  262  cd day
+  263  git init
+  264  touch README.md
+  265  ls
+  266  nano README.md
+  267  cat README.md
+  268  git status
+  269  git add README.md
+  270  git status
+  271  git commit -m "first commit"
+  272  git log
+  273  git cd
+  274  cd ..
+  275  rm -r day
+  276  cd day
+  277  rm -r day
+  278  git init
+  279  cd ..
+  280  rm -rf day
+  281  cd day
+  282  cd Desktop
+  283  mkdir level_1_coding
+  284  cd Level_1_coding
+  285  ls
+  286  git status
+  287  git init
+  288  git branch
+  289  cd Lehlohonolo-Tshabalala-219-level-1-programming-katas-python
+  290  git checkout master
+  291  cd Desktop
+  292  mkdir Level_1_Coding
+  293  cd Level_1_Coding
+  294  git clone "[200~https://github.com/Umuzi-org/Lehlohonolo-Tshabalala-219-level-1-programming-katas-python.git~"
+  295  git clone [200~https://github.com/Umuzi-org/Lehlohonolo-Tshabalala-219-level-1-programming-katas-python.git~
+  296  clone "https://github.com/Umuzi-org/Lehlohonolo-Tshabalala-219-level-1-programming-katas-python.git"
+  297  git clone "https://github.com/Umuzi-org/Lehlohonolo-Tshabalala-219-level-1-programming-katas-python.git"
+  298  git checkout master
+  299  git init
+  300  git checkout master
+  301  git pull
+  302  git checkout -b task/1
+  303  git touch task1.py
+  304  touch task1.py
+  305  git status
+  306  git add task1.py
+  307  git status
+  308  git add Lehlohonolo-Tshabalala-219-level-1-programming-katas-python/
+  309  git status
+  310  ls
+  311  git branch
+  312  cd master
+  313  cd ..
+  314  git checkout master
+  315  git checkout main
+  316  git checkout Level_1_Coding
+  317  rm -r .git
+  318  cd Level_1_Coding
+  319  cd Lehlohonolo-Tshabalala-219-level-1-programming-katas-python
+  320  git pull
+  321  git checkout -b task/1
+  322  touch task1.py
+  323  git status
+  324  git add task1.py
+  325  git status
+  326  git commit -m "my hello function"
+  327  git log
+  328  ls
+  329  git push -u origin main
+  330  git push -u origin master
+  331  git push -u origin main
+  332  rm -fr .git
+  333  cd ../..
+  334  clear
+  335  cd Level_1_Coding
+  336  cd ..
+  337  cd Level_1_Coding
+  338  rm -rf .git
+  339  cd Level_1_Coding
+  340  cd C:\Users\USER\Desktop\Level_1_Coding\Lehlohonolo-Tshabalala-219-level-1-programming-katas-python
+  341  cd Desktop
+  342  cd Level_1_Coding
+  343  ls
+  344  git clone "https://github.com/Umuzi-org/Lehlohonolo-Tshabalala-219-level-1-programming-katas-python.git"
+  345  git checkout main
+  346  ls
+  347  git checkout Lehlohonolo-Tshabalala-219-level-1-programming-katas-python
+  348  git init
+  349  git checkout Lehlohonolo-Tshabalala-219-level-1-programming-katas-python
+  350  cd Lehlohonolo-Tshabalala-219-level-1-programming-katas-python
+  351  cd ..
+  352  rm -rf .git
+  353  cd Lehlohonolo-Tshabalala-219-level-1-programming-katas-python
+  354  git checkout main
+  355  git push
+  356  git pull
+  357  git checkout -b task/1
+  358  touch task1.py
+  359  ls
+  360  git status
+  361  git add task1.py
+  362  git status
+  363  git commit -m "my hello function file"
+  364  git log
+  365  git push -u origin main
+  366  git pull
+  367  git checkout main
+  368  git branch
+  369  git status
+  370  git log
+  371  git checkout task/1
+  372  ls
+  373  git status
+  374  git log
+  375  git push -u origin main
+  376  git pull -u origin main
+  377  ls
+  378  nano task1.py
+  379  nano task1.py
+  380  cat task1.py
+  381  python task1.py
+  382  rm -rf .git
+  383  cd ../..
+  384  cd Desktop
+  385  cd Level_1_Coding
+  386  ls
+  387  git init
+  388  git remote add origin https://github.com/Umuzi-org/Lehlohonolo-Tshabalala-219-level-1-programming-katas-python.git
+  389  git -v
+  390  git remote -v
+  391  ls
+  392  git add task1.py
+  393  ls
+  394  git status
+  395  git add task1.py
+  396  git status
+  397  git commit -m "my task1 function"
+  398  git log
+  399  git push origin master
+  400  git status
+  401  git add -A
+  402  git status
+  403  git restore staged task3.py, task4.py, task5.py, task6.py
+  404  git restore task3.py
+  405  git status
+  406  git restore --staged task3.py, task4.py, task5.py, task6.py
+  407  git restore --staged task3.py
+  408  git status
+  409  git restore --staged task4.py
+  410  git restore --staged task5.py
+  411  git restore --staged task6.py
+  412  git status
+  413  git commit -m "added task2"
+  414  git log
+  415  git add task3.py
+  416  git status
+  417  git commit -m "added task3"
+  418  gir status
+  419  git status
+  420  git push origin master
+  421  cat task6.py
+  422  python task6.py
+  423  git add task4.py
+  424  git status
+  425  git commit -m "added task4"
+  426  git status
+  427  git push origin master
+  428  git log
+  429  git add task5.py
+  430  git status
+  431  git commit -m "added task5"
+  432  git log
+  433  git push origin master
+  434  git add task6.py
+  435  git status
+  436  git commit -m "added task6"
+  437  git log
+  438  git push origin master
+  439  git add task7.py
+  440  cat task7.py
+  441  python task7.py
+  442  git commit -m "added task7"
+  443  git push origin master
+  444  touch .gitignore
+  445  ls
+  446  git add .gitignore
+  447  git status
+  448  git commit -m "added .gitignore file"
+  449  git log
+  450  cd Desktop
+  451  mkdir level_one_coding
+  452  cd level_one_coding
+  453  git clone https://github.com/Umuzi-org/Lehlohonolo-Tshabalala-219-level-1-programming-katas-python.git
+  454  cd C:\Users\USER\Desktop\level_one_coding\Lehlohonolo-Tshabalala-219-level-1-programming-katas-python
+  455  ls
+  456  git checkout -b task/1
+  457  cd Lehlohonolo-Tshabalala-219-level-1-programming-katas-python
+  458  ls
+  459  ls
+  460  git status
+  461  git add task1.py
+  462  git status
+  463  git commit -m "my fist task function"
+  464  git log
+  465  git push origin master
+  466  git push origin main
+  467  git checkout -b coding_tasks
+  468  clear
+  469  git branch
+  470  ls
+  471  git chechout main
+  472  checkout main
+  473  git checkout main
+  474  ls
+  475  git status
+  476  nano task1.py
+  477  git status
+  478  nano task1.py
+  479  cat task1.py
+  480  python task1.py
+  481  git status
+  482  git add task1.py
+  483  git status
+  484  git commit -m "my task1 fuction"
+  485  git status
+  486  git push origin coding_tasks
+  487  git push origin --delete master
+  488  git add task2.py
+  489  git status
+  490  git commit -m "my task2 fuction"
+  491  git status
+  492  git push origin coding_tasks
+  493  nano task2.py
+  494  cat task2.py
+  495  python task2.py
+  496  git add task2.py
+  497  git status
+  498  git commit -m "my task2 fuction"
+  499  git log
+  500  cd Desktop
+  501  mkdir git-basic-exercises
+  502  cd git-basic-exercises
+  503  ls
+  504  git init
+  505  ls -a
+  506  git status
+  507  touch README.md
+  508  ls -a
+  509  git status
+  510  git add README.md
+  511  git status
+  512  git commit m "initial commit"
+  513  git commit -m "initial commit"
+  514  git status
+  515  git log
+  516  nano README.md
+  517  cat README.md
+  518  git status
+  519  git add README.md
+  520  git status
+  521  git commit -m "second commit"
+  522  git log
+  523  nano README.md
+  524  cat README.md
+  525  git status
+  526  git add README.md
+  527  git status
+  528  git commit -m "third commit"
+  529  git log
+  530  git checkout de01169c26d7ed277ea5963b990b847cf9a0c2f4
+  531  cat README.md
+  532  git checkout master
+  533  cat README.md
+  534  git branch
+  535  git checkout -b milkshake-flavours
+  536  git branch
+  537  nano milkshakes.md
+  538  cat milkshakes
+  539  cat milkshakes.md
+  540  git status
+  541  git add milkshakes.md
+  542  git status
+  543  git commit -m "added initial flavours"
+  544  git log
+  545  git checkout master
+  546  git log
+  547  git checkout -b history
+  548  git log
+  549  history > history.txt
